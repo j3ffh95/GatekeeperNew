@@ -1,0 +1,132 @@
+
+/*--------------------*/
+/* FOOTER */
+/*--------------------*/
+
+
+#contact {
+	/*background-image: url(../img/Ppattern1.jpg);
+	background-repeat: repeat-x;*/
+	background: rgba(111, 113, 159, 0.2);
+}
+#mu-footer {
+	background: #484b8d;
+}
+
+.mu-footer-bottom {
+	background-color: #484b8d;
+	display: inline;
+	/*padding: 20px 0;*/
+	float: left;
+	width: 100%;
+
+}
+
+.mu-footer-bottom-area {
+	display: inline;
+	float: left;
+	text-align: center;
+	width: 100%;
+	color: #5dd1f2;
+}
+
+/*a.contactbtn:link{
+    color:#333 !important;
+}*/
+
+/****Footer Start-Can be used for the future if necessary***
+.mu-footer-top {
+	background-color: #7074D4;
+	display: inline;
+	float: left;
+	padding: 55px 0;
+	width: 100%;
+}
+
+.mu-single-footer {
+	display: inline;
+	float: left;
+	color: #fff;
+	font-size: 14px;
+	width: 100%;
+}
+
+.mu-footer-logo {
+	margin-bottom: 25px;
+	height: 100px;
+	width: 200px;
+}
+
+.mu-single-footer h3 {
+	color: #fff;
+	font-size: 18px;
+	text-transform: uppercase;
+	margin-bottom: 35px;
+	margin-left: 5%;
+}
+
+.mu-single-footer ul li {
+	border-bottom: 1px solid #fff;
+	list-style: none;
+	margin-bottom: 10px;
+	padding-bottom: 12px;
+	font-size: 14px;
+}
+
+.mu-single-footer ul li:last-child {
+	border-bottom: none;
+}
+
+.mu-single-footer ul li a {
+	color: #fff;
+}
+
+.mu-single-footer .mu-useful-links li {
+	line-height: 1;
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+}
+
+.mu-single-footer .list-unstyled li {
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+}
+
+.mu-single-footer .list-unstyled li.media span {
+	margin-right: 10px;
+}
+
+.mu-single-footer .list-unstyled li.media p {
+	line-height: 1.5;
+	margin-top: -5px;
+	margin-bottom: 4px;
+	font-size: 14px;
+}
+
+.mu-single-footer .list-unstyled li.media a {
+	font-size: 12px;
+}
+
+
+.mu-copy-right {
+	color: #fff;
+	margin-bottom: 0;
+	font-size: 14px;
+}
+
+.mu-copy-right a {
+	color: #fff;
+	font-weight: 600;
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s;
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+***Footer End - Can be used for the future if necessary****/

@@ -1,0 +1,111 @@
+/*--------------------*/
+/* Homepage
+/*--------------------*/
+
+	#header-logo{
+		height: 300px;
+		width: 500px;
+		margin-top: 0px;
+	}
+
+/*	.img-responsive{
+		display: block;
+		max-width: 100%;
+		height: auto;
+	}*/
+
+
+/*--------------------*/
+/* ABOUT
+/*--------------------*/
+
+	#about{
+		background-color: rgba(111, 113, 159, 0.8);
+	}
+	.title-about{
+		color: white;
+	}
+	.about{
+		padding: 2%;
+		margin-left: 10%;
+		margin-right: 10%;
+		color: white;
+	}
+
+
+/*--------------------*/
+/* ABOUT Mary Lou */
+/*--------------------*/
+
+#mu-about {
+	background-color: #fff;
+	/*background: rgba(111, 113, 159, 0.2);*/
+}
+
+.mu-about-area {
+	display: inline;
+	float: left;
+	/*padding: 100px 0;*/
+	width: 100%;
+}
+
+.mu-title {
+	display: inline;
+	float: left;
+	text-align: center;
+	width: 100%;
+	margin-bottom: 35px;
+	padding: 0 15%;
+}
+
+.mu-title h2 {
+	color: #323232;
+	font-size: 30px;
+	text-transform: uppercase;
+	margin-bottom: 15px;
+}
+
+.mu-title p {
+
+}
+
+.mu-about-left {
+    display: inline;
+    float: left;
+    padding-right: 10px;
+    width: 100%;
+    background-color: #a19fb3;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    box-shadow: rgb(91, 92, 130) 5px 0px 10px 10px;
+}
+
+.mu-about-right {
+	display: inline;
+	float: left;
+	padding-top: 50px;
+	padding-left: 15px;
+	width: 100%
+}
+
+.mu-about-right ul {}
+
+.mu-about-right ul li {
+	list-style: none;
+	float: left;
+	margin-bottom: 25px;
+}
+
+.mu-about-right ul li h3 {
+	border-bottom: 3px solid #7074D4;
+	color: #323232;
+	font-size: 20px;
+	display: inline-block;
+	padding-bottom: 5px;
+	margin-bottom: 15px;
+}
+
+.mu-about-right p {
+	font-size: 15px;
+}

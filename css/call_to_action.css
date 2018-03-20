@@ -1,0 +1,153 @@
+/*--------------------*/
+/* CALL TO ACTION */
+/*--------------------*/
+
+#mu-call-to-action {
+	background-image: url("../img/gatekeeperbanner1.jpg");
+	background-repeat: repeat-x;
+	/*background-position: center;*/
+	position: relative;
+	width: 100%;
+}
+
+#mu-call-to-action:before {
+	background: #6F719F;
+	content: '';
+	position: absolute;
+	opacity: 0.69;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+}
+
+.mu-call-to-action-area {
+	display: inline;
+	float: left;
+	padding: 40px 0px 50px 0px;
+	width: 100%;
+}
+
+.mu-call-to-action-left {
+	color: #fff;
+	display: inline;
+	float: left;
+	max-width: 70%;
+}
+
+.mu-call-to-action-left h2 {
+	font-size: 24px;
+	text-transform: uppercase;
+	margin-bottom: 5px;
+	text-shadow: 1px 2px 1px #1016ad;
+}
+
+.mu-call-to-action-left p {
+	margin-bottom: 0;
+	padding-top: 10px;
+	text-shadow: 1px 2px 1px #1016ad;
+}
+
+.mu-quote-btn {
+	background-color: #fff;
+	color: #0091ea;
+	float: right;
+}
+
+.mu-quote-btn:hover,
+.mu-quote-btn:focus {
+	color: #0091ea;
+}
+
+@media (max-width: 991px) {	
+	.mu-call-to-action-left {
+		max-width: 50%;
+	}
+}
+
+@media (max-width: 767px) {
+		.mu-call-to-action-left {
+		max-width: 100%;
+	}
+
+	.mu-call-to-action-area {
+		text-align: center;
+		padding: 50px 0;
+	}
+
+	.mu-call-to-action-left h2 {
+		margin-bottom: 15px;
+	}
+
+	.mu-quote-btn {
+		float: none;
+		margin-top: 35px;
+	}
+}
+
+@media (max-width: 480px) {
+		.mu-call-to-action-left h2 {
+		font-size: 20px;
+	}
+}
+
+@media (max-width: 1199px) {
+		.mu-quote-btn {
+		padding: 15px 45px;
+		margin-top: 15px;
+	}
+}
+
+/* ========= BUTTON =========*/
+
+.mu-primary-btn {
+	background-color: #dfdfe5;
+	color: #7074D4;
+	box-shadow: 0 0 0 0.2rem #7074D4;
+	display: inline-block;
+	font-size: 18px;
+	padding: 10px 30px;
+	margin-top: 30px;
+	text-transform: uppercase;
+	font-weight: 700;
+	border-radius: 25px;
+}
+
+.mu-primary-btn:hover,
+.mu-primary-btn:focus,
+.mu-primary-btn:active {
+	color: #fff;
+	background-color: #7074D4;
+	box-shadow: 0 0 0 0.2rem #dfdfe5;
+}
+
+/*.btn-primary {
+  background-color: #6f719f;
+  border-color: #6f719f; }
+  .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+    color: #fff;
+    text-decoration: none;
+    background-color: #7074D4 !important; }
+  .btn-primary:active, .btn-primary:focus {
+    box-shadow: 0 0 0 0.2rem #6f719f !important; }*/
+
+
+
+@media (max-width: 991px) {	
+		.mu-primary-btn {
+		padding: 12px 30px;
+	}
+}
+
+@media (max-width: 640px){
+		.mu-primary-btn {
+		padding: 12px 28px;
+		font-size: 14px;
+	}
+}
+
+@media (max-width: 480px) {
+	.mu-single-slide-content a.mu-primary-btn {
+		display: none;
+	}
+}
