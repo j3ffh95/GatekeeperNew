@@ -13,7 +13,6 @@ To begin using this template, follow the methods to get started:
 ## About
 
 Gate Keeper NY was built for Mary Lou who wanted a web presence to advertise her home management and concierge services in NYC. The client requested a one page site with the possibility of expansions in the future. The project was developed and executed in a total of 2 weeks.
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
 ## Copyright and License
 
