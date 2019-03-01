@@ -5,7 +5,7 @@
 [![Creative Preview](img/GatekeeperPreview.jpg)](https://gatekeepernew.herokuapp.com/)
 
 ## Download and Installation
-
+## I love Coding!!
 To begin using this template, follow the methods to get started:
 * Clone the repo: `git@github.com:Shesam1/GatekeeperNew.git`
 * [Fork, Clone, or Download on GitHub](https://github.com/Shesam1/GatekeeperNew)
